@@ -27,7 +27,7 @@ The dataset contains corporate financial records including Revenue, COGS, Operat
 3. **Cost Control:** Operating expenses spike during Q4 marketing pushes, heavily impacting the bottom line.
 
 ## 📸 Dashboard Preview
-![Dashboard](Images/Main_Dashboard_View.png)
+![Dashboard](Main_Dashboard_View.png)
 
 ## 🚀 Conclusion
 This dashboard streamlines financial reporting, shifting the business from manual spreadsheet analysis to automated, real-time data-driven decision-making.
